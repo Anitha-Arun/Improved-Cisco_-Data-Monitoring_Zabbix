@@ -8,9 +8,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Configuration
-ADB_KEY_PATH = r'C:\Users\v-adamarla\.android\adbkey'
-ADB_PUB_KEY_PATH = r'C:\Users\v-adamarla\.android\adbkey.pub'
-CSV_FILE_PATH = r'D:\Zabbix\Zabbix-Jerkins\Poly,yealink,logi-host.csv'
+ADB_KEY_PATH = r''
+ADB_PUB_KEY_PATH = r''
+CSV_FILE_PATH = r''
 BASE_URL = "https://{device_ip}/web/"
 USERNAME = "admin"
 PASSWORD = "Admin@123"
