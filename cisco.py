@@ -12,8 +12,8 @@ ADB_KEY_PATH = r''
 ADB_PUB_KEY_PATH = r''
 CSV_FILE_PATH = r''
 BASE_URL = "https://{device_ip}/web/"
-USERNAME = "admin"
-PASSWORD = "Admin@123"
+USERNAME = ""
+PASSWORD = ""
 CHECK_INTERVAL = 300  # Time interval in seconds (5 minutes)
 
 
